@@ -1,17 +1,11 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Senior Data Scientist, Kasikorn Bank, Bangkok, Thailand
+  from: 2024
+  to: Now
+  description: 
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Data Scientist, Honest Technologies, Bangkok, Thailand
+  from: 2022
+  to: 2024
+  description: |
+    - Contributed to the development of the organization's first underwriting model. Achieved 15% higher approval rate from traditional rule-based engine while maintaining the same risk level.
+    - Worked closely with the finance team to develop an LTV model assessing the profitability of customers over a one-year projection. The model achieved an average 10% error from actual values, validated through backtesting with 3-month data.
