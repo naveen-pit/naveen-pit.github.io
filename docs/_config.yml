@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My personal github io page
-email: your-email@example.com
+title: Naveen P.'s blog
 description: >- # this means to ignore newlines until "baseurl:"
   This is a github io page of Naveen Pitipornvivat.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -29,9 +28,13 @@ github_username:  naveen-pit
 
 
 # Build settings
-theme: minima
+
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+# theme: minima
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
