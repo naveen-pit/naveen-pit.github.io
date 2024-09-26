@@ -1,4 +1,13 @@
 source "https://rubygems.org"
 
+
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
 gem "github-pages", group: :jekyll_plugins
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'jekyll'
+
+group :jekyll_plugins do
+    gem "jemoji", "~> 0.8"
+  end
