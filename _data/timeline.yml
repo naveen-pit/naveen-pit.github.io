@@ -1,14 +1,47 @@
 - title: Senior Data Scientist, Kasikorn Bank, Bangkok, Thailand
-  image_url: testUrl
+  image_url: https://www.kasikornbank.com/SiteCollectionDocuments/about/img/logo/logo.png
   from: 2024
   to: Now
   description: 
 
 - title: Data Scientist, Honest Technologies, Bangkok, Thailand
-  image_url: testUrl
+  image_url: https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/lq9rwj57mfvcdoi0g117
   from: 2022
   to: 2024
   description: |
     - Contributed to the development of the organization's first underwriting model. Achieved 15% higher approval rate from traditional rule-based engine while maintaining the same risk level. <br><br>
-    
     - Worked closely with the finance team to develop an LTV model assessing the profitability of customers over a one-year projection. The model achieved an average 10% error from actual values, validated through backtesting with 3-month data.
+
+- title: Data Scientist, Infinitas by Krungthai, Bangkok, Thailand
+  image_url: https://media.licdn.com/dms/image/v2/C560BAQGhFH5gpV2n0g/company-logo_200_200/company-logo_200_200/0/1659089507719/infinitas_by_krungthai_logo?e=2147483647&v=beta&t=xH9dpJBCT_Pchz7-TndNdzt-kAVwbYnhbr8OE4j0WR8
+  from: 2021
+  to: 2022
+  description: |
+    - Researched and developed propensity model for Krungthai Bank financial products <br><br>
+    - Applied NLP tasks to identify customers' needs and delivered as lead generation campaigns 
+
+- title: Data Scientist, LINE, Bangkok, Thailand
+  image_url: https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg
+  from: 2018
+  to: 2020
+  description: |
+    - Researched and built data product prototypes for LINE MAN including food recommendation, customer segmentation, locating place of interest for taxi and Wongnai sentiment analysis <br><br>
+    - Developed python library for Thai NLP tasks including text cleansing, stop word removal, URL and email detection, embedding generation and embedding comparison. The library was used to evaluated and classified intents on LINE Official Account
+
+- title: Financial Engineer, Bualuang Securities, Bangkok, Thailand
+  image_url: https://blsport2.bualuang.co.th/assets/img-bls/bls-logo-small.png
+  from: 2016
+  to: 2018
+  description: |
+    - Develop and maintain automated trading execution platform <br><br>
+    - Day-to-day portfolio management <br><br>
+    - Analyzed customer insight from daily transaction and offered personalized marketing plan <br><br>
+    - Analyzed annual revenue and identified key segments of customers
+
+- title: Software Design Engineer in Test, LINE, Bangkok, Thailand
+  image_url: https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg
+  from: 2012
+  to: 2013
+  description: |
+    - Prepared test plan and test cases to ensure appropriate test coverage and effective test methods <br><br>
+    - Implemented test automation tools in C# to measure performance of the test objects (apps, web-apps, libraries, internal tools).
