@@ -1,11 +1,14 @@
 - title: Senior Data Scientist, Kasikorn Bank, Bangkok, Thailand
+  image_url: testUrl
   from: 2024
   to: Now
   description: 
 
 - title: Data Scientist, Honest Technologies, Bangkok, Thailand
+  image_url: testUrl
   from: 2022
   to: 2024
   description: |
-    - Contributed to the development of the organization's first underwriting model. Achieved 15% higher approval rate from traditional rule-based engine while maintaining the same risk level.
+    - Contributed to the development of the organization's first underwriting model. Achieved 15% higher approval rate from traditional rule-based engine while maintaining the same risk level. <br><br>
+    
     - Worked closely with the finance team to develop an LTV model assessing the profitability of customers over a one-year projection. The model achieved an average 10% error from actual values, validated through backtesting with 3-month data.

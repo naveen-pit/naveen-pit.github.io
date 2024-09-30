@@ -21,3 +21,8 @@ Outside of works, I enjoy sharing insights through blogging and pushing my limit
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+# Education 
+<div class="row">
+{% include about/education.html %}
+</div>

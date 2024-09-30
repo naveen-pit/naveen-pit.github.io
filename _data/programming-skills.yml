@@ -1,12 +1,25 @@
-- name: Python
+
+- name: Python for Data Analysis and Machine Learning (Pandas, Numpy, Matplotlib, Scikit-learn)
   percentage: 0
-  color: secondary
+  color: info
+
+- name: Python Web Development Framework (FastAPI, Flask)
+  percentage: 0
+  color: info
+
+- name: Java
+  percentage: 0
+  color: info
+
+- name: C#
+  percentage: 0
+  color: info
 
 - name: SQL
   percentage: 0
-  color: danger
+  color: info
 
 - name: d3.js
   percentage: 0
-  color:
+  color: info
 

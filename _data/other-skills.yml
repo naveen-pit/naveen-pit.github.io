@@ -2,6 +2,10 @@
   percentage: 0
   color: info
 
-- name: Adobe Illustrator
+- name: Google Cloud Platform
+  percentage: 0
+  color: success
+
+- name: Git
   percentage: 0
   color: success
